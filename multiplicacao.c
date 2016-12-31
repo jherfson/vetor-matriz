@@ -1,4 +1,4 @@
-// A quarta questão é para criar um programa que 
+// Criar um programa que 
 //leia duas matrizes, A e B, e faça a multiplicação de A por B, caso possível.
 
 #include <stdio.h>
